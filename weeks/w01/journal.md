@@ -39,15 +39,15 @@ Keep evidence of the process, not only the successful result.
 
 **Original idea**
 
-<!-- Add your drawing and a short description. -->
+![[WhatsApp Image 2026-09-15 at 17.44.00.jpeg]]
 
 **First instruction set**
 
-1.
-2.
-3.
-4.
-5.
+1.Draw a big circle
+2.Draw 3 lines from right to left on top of the circle
+3.Add a huge dot
+4.Draw two vertical triangles above the dot
+5.Draw another line down 
 6.
 
 **First execution**
