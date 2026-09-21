@@ -47,17 +47,19 @@ Keep evidence of the process, not only the successful result.
 2.Draw 3 lines from right to left on top of the circle
 3.Add a huge dot
 4.Draw two vertical triangles above the dot
-5.Draw another line down 
-6.
+5.Draw another line down to the end of the circle
+6.At the midpoint of line, draw another line right with steps
+7.Draw a house
 
 **First execution**
 
-<!-- Embed or link the result produced by your partner. -->
+![[WhatsApp Image 2026-09-21 at 21.44.01.jpeg]]
 
 **Where did interpretation differ?**
 
--
--
+-The house is outside the circle
+-No mountains(but it was my fault for not mentioning it)
+-Instead of rectangles, there are triangles
 
 **Revised instructions**
 
