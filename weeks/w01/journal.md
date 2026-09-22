@@ -19,14 +19,14 @@ publish: true
 
 Keep evidence of the process, not only the successful result.
 
-- [ ] Original drawing or idea
-- [ ] First instruction set
-- [ ] First execution by another person
-- [ ] Moments of confusion or ambiguity
-- [ ] Revised instructions
+- [x] Original drawing or idea
+- [x] First instruction set
+- [x] First execution by another person
+- [x] Moments of confusion or ambiguity
+- [x] Revised instructions
 - [ ] Second execution
-- [ ] Small rule system
-- [ ] Sketch or diagram of the system
+- [x] Small rule system
+- [x] Sketch or diagram of the system
 - [ ] p5.js translation
 
 <!-- Add images to ./sketches/ and embed them like this:
@@ -53,6 +53,7 @@ Keep evidence of the process, not only the successful result.
 
 **First execution**
 
+(Execution by Anissah Quraishi)
 ![[WhatsApp Image 2026-09-21 at 21.44.01.jpeg]]
 
 **Where did interpretation differ?**
@@ -61,14 +62,19 @@ Keep evidence of the process, not only the successful result.
 -No mountains(but it was my fault for not mentioning it)
 -Instead of rectangles, there are triangles
 
+
 **Revised instructions**
 
-1.
-2.
-3.
-4.
-5.
-6.
+1.Draw a big circle covering the middle of the paper, please note all the drawings you will make should be in the circle
+2.At the middle of the page, draw a line going straight across
+3.at the top half, draw three lines from the right to the middle of the top half
+4.Draw a massive dot, with the end of the three lines covered by the circle
+5.From the circle, draw a line all the way to the bottom of the bottom half
+6.At the middle of the line in the bottom half, create another line, but as you get closer to the edge, start to create steps, you can add 1 or more steps as you please
+7.At the end of the steps, draw a house
+8.Above the dot earlier, draw TWO RECTANGLES(RECTANGLES, I REPEAT RECTANGLES)
+9.Somewhere to the right of the line in the bottom half, draw mountains as triangles without a base
+10.Congratulations, you have drawn my route from Basel SBB to my house, with all the geography of Basel included! Hopefully you learnt something abt Basel
 
 **Second execution**
 
@@ -76,14 +82,15 @@ Keep evidence of the process, not only the successful result.
 
 ### Small rule system
 
-- **Starting condition:**
-- **Action:**
-- **Relationship:**
-- **Variation:**
-- **Constraint:**
-- **Stopping rule:**
+- **Starting condition:** A piece of A4 paper, 210mm × 297mm.
+- **Action:** Draw the route from Basel SBB to my house
+- **Relationship:** There will be dots, lines, rectangles, uncompleted triangles and a custom mathematical polygon
+- **Variation:** Number of steps at the end of the path may vary (1 or more, drawer's choice); exact placement of the mountains (triangles) to the right of the line may vary, as long as they stay within the circle.
+- **Constraint:** My address is not provided, so you can't look at google maps and draw my route.
+- **Stopping rule:** You have drawn a house at the end and is within the circle
 
-<!-- Add a sketch or diagram of the system. -->
+![[Pasted image 20260922165243.png]]
+I tried
 
 ### Human → Computer
 
@@ -93,7 +100,16 @@ What did a human understand automatically that the computer needed you to specif
 -
 
 ```js
-// Add your own p5.js translation here.
+function setup() {
+  createCanvas(400, 400);
+  background(240);
+
+  circle(200, 200, 400);
+  
+  stroke(0);
+  strokeWeight(8);
+  line(30, 20, 80, 75)
+}
 ```
 
 **Parameters tested**
