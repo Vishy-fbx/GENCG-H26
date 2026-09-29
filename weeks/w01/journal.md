@@ -24,10 +24,10 @@ Keep evidence of the process, not only the successful result.
 - [x] First execution by another person
 - [x] Moments of confusion or ambiguity
 - [x] Revised instructions
-- [ ] Second execution
+- [x] Second execution
 - [x] Small rule system
 - [x] Sketch or diagram of the system
-- [ ] p5.js translation
+- [x] p5.js translation
 
 <!-- Add images to ./sketches/ and embed them like this:
 ![[./sketches/your-file-name.jpg]]
