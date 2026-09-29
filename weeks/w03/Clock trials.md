@@ -18,3 +18,62 @@ This artwork was my main inspiration behind this idea, because it reminded me of
 ## Concept
 ![[WhatsApp Image 2026-09-29 at 16.31.27.jpeg]]
 
+# Creating the Clock
+
+## Creating the frame
+
+![[Pasted image 20260929172321.png]]
+
+Here I am creating a 100 x 100 pixel canvas to display the clock. A 100 x 100 pixel canvas is appropriate because of the width of the plate and the height of my bowl
+
+I have a backdrop of 220(which is light gray) because It makes the artpiece more relaxed and less intense.
+
+## Defining the Plate
+![[Pasted image 20260929172251.png]]
+
+The plate is 100 pixels wide(across the canvas along the X-axis)
+
+Where I learnt this: https://p5js.org/reference/p5/line/
+
+Plus, I prompted into Google Gemini, How I can manipulate the width
+
+![[Pasted image 20260929172531.png]]
+
+I learnt I have to manipulate the 1st and 3rd value to change the width of a line
+
+## Creating the Bowl
+
+![[Pasted image 20260929173714.png]]
+
+## The oats
+
+`function setup() {
+  createCanvas(100, 100);
+
+  background(200);
+
+  describe('A Plate');
+
+  line(0, 75, 100, 75);
+
+  describe("A Bowl")
+  
+  line(45, 20, 45, 75);
+
+  line(70, 20, 70, 75);
+
+  line(45, 70, 70, 70);
+
+  describe("The Oats")
+  line(45, 25, 70, 25);
+
+  c = color(170, 139, 91);
+
+  fill(c)
+  noStroke()
+  x = square(15, 15, 15)
+}
+
+function draw() {
+  background(220);
+}`
