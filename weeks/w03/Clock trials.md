@@ -77,3 +77,7 @@ I learnt I have to manipulate the 1st and 3rd value to change the width of a lin
 function draw() {
   background(220);
 }`
+
+## Reflection
+
+After this exercise, I felt much more confident using P5.js. Even though my artwork consisted purely of lines, I feel more confident coding using p5.js with the help of documentation. But, one thing, I will work on the future is to learn more commands of designing artwork, rather than using lines, trying to create something more abstract. I have made a stride in that effort, by learning the command vertex(). I have not understood where I should apply this concept, but I am aware that this command exists, and I hope to learn more about how I can use this command efficiently to carry out my objective. 
