@@ -1,2 +1,2 @@
 
-I am very familiar with the concepts of the behaviour and usage of an agent and ultimately creating a drawing machine. However, I forgot to apply these concepts while creating my artwork, but I will keep practicing and getting better.
+I am very familiar with the concepts of the behavior and usage of an agent and ultimately creating a drawing machine. However, I forgot to apply these concepts while creating my artwork, but I will keep practicing and getting better.
