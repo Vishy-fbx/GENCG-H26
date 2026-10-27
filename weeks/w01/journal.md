@@ -53,7 +53,7 @@ Keep evidence of the process, not only the successful result.
 
 **First execution**
 
-(Execution by Anissah Quraishi)
+(by Anissah Quraishi)
 ![[WhatsApp Image 2026-09-21 at 21.44.01.jpeg]]
 
 **Where did interpretation differ?**
