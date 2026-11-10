@@ -11,6 +11,3 @@ Order: Literalist → Storyteller → Minimalist → Literalist → Storyteller,
 Literalist result:
 ![[Pasted image 20261103164928.png|398]]
 
-Storyteller result:
-
-

@@ -1,17 +1,18 @@
-### Experiment 1: Does the painting survive the chain?
+### Experiment 1: Creating a painting using Javascript
 
-Variable: the link number.
+Variable: User input
 
-- Link 1
-- Link 2
-- Link 3
-- Link 4
-- Link 5
+Basically, I take the Mondrian, describe the painting in my own words on a text file, copy and paste the description of the painting into Claude and other LLMs, Prompt the LLM to output specific code, the generated code is pasted into P5.js and then the painting is outputted. All the paintings will be ranked subjectively based on painting visuals. 
 
-Order: Literalist → Storyteller → Minimalist → Literalist → Storyteller, starting from your description. Run each chain 3 times, on 3 paintings.
+The LLMs used to generate the code is as follows:
 
-Expected results: the biggest drop comes at Link 1, when your words are first turned into code, then a slower decline.  
-Actual results: (fill in after running)
+1. Claude
+2. Google Gemini
+3. ChatGPT
+4. Copilot
+5. A custom replicate LLM
+
+Predicted results: The replicate LLM will create code that will create a more detailed painting than the other LLMs. 
 
 ### Experiment 2: Does the order of personas matter?
 
