@@ -1,5 +1,5 @@
 
-Objective: Try to finalise my idea and start programming with all the ideas gathered over the past 2 weeks.
+Objective: Try to finalize my idea and start programming with all the ideas gathered over the past 2 weeks.
 
 All the people I was grouped up with stated that the idea has lots of potential, I explained to them that I had two ideas and I decided to go with the second idea.
 
@@ -9,4 +9,4 @@ The second idea was basically instead of everything being automated and tracked 
 
 During the first feedback session with Felix, he stated that the idea has lots of potential and what would be cool is that at the end of the process, there would a process timeline, showing all 3 paintings generated and as well as a complexity analysis, where basically it would take the amount of lines of all three prompts and determine if the prompts were getting really complex or more and more simpler. By complex and simpler, the amount of lines would be a strong indicator me and Felix agreed on, where basically the more lines there is for a description, the more complex the painting was getting. When I was discussing with Noah and Daniel, I personally felt that the idea is reinforced and therefore I internally decided that room for more modifications is over and I can start developing. I would only get feedback about the programmed solution. 
 
-So overall it was really produtive.
+So overall it was really productive session.
