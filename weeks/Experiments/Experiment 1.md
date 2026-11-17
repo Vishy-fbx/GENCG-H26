@@ -1,13 +1,22 @@
-Variable: the link number.
 
-- Link 1
-- Link 2
-- Link 3
-- Link 4
-- Link 5
+Recap:
+### Experiment 1: Creating a painting using Javascript
 
-Order: Literalist → Storyteller → Minimalist → Literalist → Storyteller, starting from your description. Run each chain 3 times, on 3 paintings.
+Variable: User input
 
-Literalist result:
-![[Pasted image 20261103164928.png|398]]
+Basically, I take the Mondrian, describe the painting in my own words on a text file, copy and paste the description of the painting into Claude and other LLMs, Prompt the LLM to output specific code, the generated code is pasted into P5.js and then the painting is outputted. All the paintings will be ranked subjectively based on painting visuals. 
+
+The LLMs used to generate the code is as follows:
+
+1. Claude
+2. Google Gemini
+3. ChatGPT
+4. Copilot
+5. A custom replicate LLM
+
+Predicted results: The replicate LLM will create code that will create a more detailed painting than the other LLMs. 
+
+Methodology:
+
+
 
